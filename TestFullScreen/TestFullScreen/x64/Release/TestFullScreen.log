@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(99): warning C4101: 'texture2': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 205 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32sd.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32sd.lib(glew.obj)' or at 'C:\Users\Lu Jie\Desktop\lsu\testFullScreen\TestFullScreen\x64\Release\vc120.pdb'; linking object as if no debug info
+  TestFullScreen.vcxproj -> C:\Users\Lu Jie\Desktop\lsu\testFullScreen\TestFullScreen\x64\Release\TestFullScreen.exe
+  TestFullScreen.vcxproj -> C:\Users\Lu Jie\Desktop\lsu\testFullScreen\TestFullScreen\x64\Release\TestFullScreen.pdb (Full PDB)
